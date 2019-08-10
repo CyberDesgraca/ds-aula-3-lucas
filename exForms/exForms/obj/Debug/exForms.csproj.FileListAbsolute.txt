@@ -1,0 +1,17 @@
+D:\ds\aula3_exForms\exForms\exForms\bin\Debug\exForms.exe.config
+D:\ds\aula3_exForms\exForms\exForms\bin\Debug\exForms.exe
+D:\ds\aula3_exForms\exForms\exForms\bin\Debug\exForms.pdb
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.csprojAssemblyReference.cache
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.Form1.resources
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.Properties.Resources.resources
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.csproj.GenerateResource.cache
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.csproj.CoreCompileInputs.cache
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.exe
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.pdb
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.frmSplash.resources
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.frmPrincipal.resources
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.frmMedia.resources
+D:\ds\aula3_exForms\exForms\exForms\bin\Debug\exForms.exe.manifest
+D:\ds\aula3_exForms\exForms\exForms\bin\Debug\exForms.application
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.exe.manifest
+D:\ds\aula3_exForms\exForms\exForms\obj\Debug\exForms.application
